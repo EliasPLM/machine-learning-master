@@ -1,6 +1,6 @@
 # This Capstone Project
 This project is a two-step project some contains two files balancing_dataset.ipynb and X_ray_CNN.ipynb for running the neural network
-the first file balancing_dataset.ipynb are used to make a new data set with from the original data set there can be found in the link below.
+the first file balancing_dataset.ipynb are used to make a new balanced data set from the original data set there can be found in the link below.
 the second file contains the neural network for this project and all benchmark test.
 
 # Instructions
