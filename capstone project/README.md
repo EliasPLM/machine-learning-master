@@ -17,13 +17,20 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 # External libraries used for this project
 Python v3.5
+<br>
 Numpy v1.15.2
+<br>
 Mathplotlib v3.0.0
+<br>
 Keras v2.2.2
+<br>
 Scikit-learn v0.20.0
+<br>
 Jupytor notebook latest version
 
 # Information
 All information about the project can be found in:
+<br>
 Proposal.pdf
+<br>
 Report.pdf
