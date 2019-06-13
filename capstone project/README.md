@@ -6,9 +6,9 @@ the second file contains the neural network for this project and all benchmark t
 # Instructions
 1.) download the data set and paste it into the top directory: "capstone project".
 <br>
-2.) run balanced_data.ipynb file with Jupyter notebook for creating the new balance data set. Make sure only to run the file run time.
+2.) run balanced_data.ipynb file with Jupyter notebook for creating the new balance data set. Make sure only to run the file one time.
 <br>
-3.) run X_ray_CNN.ipynb for the neural network and benchmark tests.
+3.) run X_ray_CNN.ipynb with Jupyter notebook for using the neural network and benchmark tests.
     alternatively compile the model and run model.load_weights in line[17] in the X_ray_CNN.ipynb for using the existing weights for this project.
 
 # Data set
