@@ -13,10 +13,12 @@ the second xray_cnn_model.ipynb file contains the final neural network for this 
 2.) run balancing_dataset.ipynb file with Jupyter notebook for creating the new balance data set. Make sure only to run the file one time.
 <br>
 3.) run xray_cnn_model.ipynb with Jupyter notebook for using the neural network and see the performance of the model.
-    alternatively compile the model and run model.load_weights function in line[17] in the xray_cnn_model.ipynb file for using the existing weights for this project.
+<br>
+alternatively compile the model and run model.load_weights function in line[17] in the xray_cnn_model.ipynb file for using the existing weights for this project.
 <br> 
 4.) run the benchmark_model.ipynb to see the result of the benchmark model and its performances.
-    alternatively compile the model and run model.load_weights function in line[6] in the benchmark_model.ipynb file for using the existing weights for this project.
+<br>
+alternatively compile the model and run model.load_weights function in line[6] in the benchmark_model.ipynb file for using the existing weights for this project.
 
 # Data set
 The data set can be found and downloaded from:
