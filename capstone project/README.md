@@ -15,7 +15,7 @@ all information about this project can be found in the proposel.pdf and report.p
 <br>
 2.) run balancing_dataset.ipynb file with Jupyter notebook for creating the new balance data set. Make sure only to run the file one time.
 <br>
-3.) run xray_cnn_model.ipynb with Jupyter notebook for using the neural network and see the prefroms of it.
+3.) run xray_cnn_model.ipynb with Jupyter notebook for using the neural network and see the performance of the model.
     alternatively compile the model and run model.load_weights function in line[17] in the xray_cnn_model.ipynb file for using the existing weights for this project.
 <br> 
 4.) run the benchmark_model.ipynb to see the result of the been mark model
