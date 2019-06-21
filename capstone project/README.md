@@ -6,9 +6,6 @@ the first file balancing_dataset.ipynb is used to make a new balanced data set f
 <br>
 <br>
 the second xray_cnn_model.ipynb file contains the final neural network for this project and the third file contains the benchmark model for my proposal.
-<br>
-<br>
-all information about this project can be found in the proposel.pdf and report.pdf.
 
 # Instructions
 1.) download the data set and paste it into the top directory: "capstone project".
