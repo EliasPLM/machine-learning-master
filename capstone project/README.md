@@ -1,5 +1,5 @@
 # This Capstone Project
-This project is a three-step project some contains three files balancing_dataset.ipynb, xray_cnn_model.ipynb and benchmark_model.ipynb for balancing the data and the final model and benchmark model.
+This project is a three-step project some contains three files balancing_dataset.ipynb, xray_cnn_model.ipynb and benchmark_model.ipynb for balancing the data and the final neural network and the benchmark model.
 <br>
 <br>
 the first file balancing_dataset.ipynb is used to make a new balanced data set from the original data set there can be found in the link below.
