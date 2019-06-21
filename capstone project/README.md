@@ -21,7 +21,7 @@ alternatively compile the model and run model.load_weights function in line[17] 
 <br>
 4.) run the benchmark_model.ipynb to see the result of the benchmark model and its performances.
 <br>
-alternatively compile the model and run model.load_weights function in line[6] in the benchmark_model.ipynb file for using the existing weights for this project.
+
 
 # Data set
 The data set can be found and downloaded from:
