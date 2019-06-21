@@ -18,7 +18,7 @@ all information about this project can be found in the proposel.pdf and report.p
 3.) run xray_cnn_model.ipynb with Jupyter notebook for using the neural network and see the performance of the model.
     alternatively compile the model and run model.load_weights function in line[17] in the xray_cnn_model.ipynb file for using the existing weights for this project.
 <br> 
-4.) run the benchmark_model.ipynb to see the result of the been mark model
+4.) run the benchmark_model.ipynb to see the result of the benchmark model and its performances.
     alternatively compile the model and run model.load_weights function in line[6] in the benchmark_model.ipynb file for using the existing weights for this project.
 
 # Data set
